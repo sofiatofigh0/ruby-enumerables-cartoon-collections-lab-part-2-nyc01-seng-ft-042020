@@ -31,5 +31,6 @@ def find_valid_calls(planeteer_calls)
   valid_calls.each do |y|
    if y == x
      x
+   end
  end
  end
